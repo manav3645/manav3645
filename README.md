@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/manav04" target="blank"><img src="https://img.shields.io/twitter/follow/manav04?logo=twitter&style=for-the-badge" alt="manav04" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,Python**
+- 🌱 I’m currently learning **DSA,JAVA**
 
 - 📝 I regularly write articles on [Programming](Programming)
 
-- 💬 Ask me about **C,PYTHON,HTML&CSS**
+- 💬 Ask me about **C,PYTHON,C++,HTML&CSS**
 
 - 📫 How to reach me **manavroyals436@gmail.com**
 
